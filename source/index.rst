@@ -3,14 +3,22 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to multivariate-analysis's documentation!
+Multivariate-analysis's documentation
 =================================================
+
+The Multivariate Analysis documentation is a summary where 
+the method for multivariate problem with Python.
+
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   regression
+   intro
+   basic regression
+   basic classification
+   kernel ridge regression
+
 
 
 
