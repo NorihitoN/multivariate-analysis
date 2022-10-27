@@ -10,6 +10,8 @@ Welcome to multivariate-analysis's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   regression
+
 
 
 Indices and tables
